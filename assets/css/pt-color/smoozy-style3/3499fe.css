@@ -1,0 +1,18 @@
+/*3499fe:3499fe*/
+.smoozy-style3-c3499fe .pt-back:before,
+.smoozy-style3 .smoozy-style3-c3499fe .pt-back:before {
+  -webkit-box-shadow: 0 0 20px #001a33;
+  box-shadow: 0 0 20px #001a33;
+}
+.smoozy-style3-c3499fe .pt-back:after,
+.smoozy-style3 .smoozy-style3-c3499fe .pt-back:after {
+  background-color: #3499fe;
+  -webkit-box-shadow: 0 0 5px #014d98;
+  box-shadow: 0 0 5px #014d98;
+}
+.smoozy-style3-c3499fe .pt-btn:hover,
+.smoozy-style3 .smoozy-style3-c3499fe .pt-btn:hover,
+.smoozy-style3-c3499fe .pt-btn:focus,
+.smoozy-style3 .smoozy-style3-c3499fe .pt-btn:focus {
+  color: #3499fe;
+}

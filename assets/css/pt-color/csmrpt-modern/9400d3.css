@@ -1,0 +1,19 @@
+/*9400d3:9400d3*/
+.csmrpt-modern-c9400d3 .pt-btn:hover,
+.csmrpt-modern .csmrpt-modern-c9400d3 .pt-btn:hover,
+.csmrpt-modern-c9400d3 .btn:hover,
+.csmrpt-modern .csmrpt-modern-c9400d3 .btn:hover,
+.csmrpt-modern-c9400d3 .pt-btn:focus,
+.csmrpt-modern .csmrpt-modern-c9400d3 .pt-btn:focus,
+.csmrpt-modern-c9400d3 .btn:focus,
+.csmrpt-modern .csmrpt-modern-c9400d3 .btn:focus {
+  background-color: #9400d3;
+  border-color: #a600ed;
+}
+.csmrpt-modern-c9400d3 .pt-selected .pt-head,
+.csmrpt-modern .csmrpt-modern-c9400d3 .pt-selected .pt-head,
+.csmrpt-modern-c9400d3[class*='pt-animation-'] .pt-col .pt-block:hover .pt-head,
+.csmrpt-modern[class*='pt-animation-'] .csmrpt-modern-c9400d3.pt-col .pt-block:hover .pt-head {
+  background-color: #9400d3;
+  border-color: #a600ed;
+}

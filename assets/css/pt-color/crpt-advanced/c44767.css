@@ -1,0 +1,52 @@
+/*c44767:c44767*/
+.crpt-advanced-cc44767 .pt-btn,
+.crpt-advanced .crpt-advanced-cc44767 .pt-btn {
+  -webkit-box-shadow: 50px 0 50px -50px #dd94a7 inset, -50px 0 50px -50px #dd94a7 inset, 0 0 2px #902e47;
+  box-shadow: 50px 0 50px -50px #dd94a7 inset, -50px 0 50px -50px #dd94a7 inset, 0 0 2px #902e47;
+  background: #c44767;
+}
+.crpt-advanced-cc44767 .pt-btn:hover,
+.crpt-advanced .crpt-advanced-cc44767 .pt-btn:hover,
+.crpt-advanced-cc44767 .pt-btn:focus,
+.crpt-advanced .crpt-advanced-cc44767 .pt-btn:focus {
+  -webkit-box-shadow: 200px 0 200px -200px #dd94a7 inset, -200px 0 200px -200px #dd94a7 inset, 0 0 2px #902e47;
+  box-shadow: 200px 0 200px -200px #dd94a7 inset, -200px 0 200px -200px #dd94a7 inset, 0 0 2px #902e47;
+}
+.crpt-advanced-cc44767 .pt-content,
+.crpt-advanced .crpt-advanced-cc44767 .pt-content {
+  border-color: #bf3d5e;
+}
+.crpt-advanced-cc44767 .pt-content:before,
+.crpt-advanced .crpt-advanced-cc44767 .pt-content:before {
+  background: #bf3d5e;
+}
+.crpt-advanced-cc44767 .pt-list,
+.crpt-advanced .crpt-advanced-cc44767 .pt-list {
+  color: #fff;
+  border-color: #bf3d5e;
+  background-color: #c44767;
+}
+.crpt-advanced-cc44767 .pt-list .pt-list-item + .pt-list-item,
+.crpt-advanced .crpt-advanced-cc44767 .pt-list .pt-list-item + .pt-list-item {
+  border-color: #d06e87;
+}
+.crpt-advanced-cc44767 .pt-list .pt-list-item:hover,
+.crpt-advanced .crpt-advanced-cc44767 .pt-list .pt-list-item:hover {
+  background: #b73b5a;
+}
+.crpt-advanced-cc44767 .pt-list-block {
+  color: #fff;
+  background: #d06e87;
+  border-color: #ca5b77;
+}
+.crpt-advanced-cc44767 .pt-list-block:before {
+  border-bottom-color: #bf3d5e;
+}
+.crpt-advanced-cc44767 .pt-selected .pt-title,
+.crpt-advanced .crpt-advanced-cc44767 .pt-selected .pt-title,
+.crpt-advanced-cc44767.pt-animation-default .pt-col .pt-block:hover .pt-title,
+.crpt-advanced.pt-animation-default .crpt-advanced-cc44767.pt-col .pt-block:hover .pt-title,
+.crpt-advanced-cc44767.pt-animation-1 .pt-col .pt-block:hover .pt-title,
+.crpt-advanced.pt-animation-1 .crpt-advanced-cc44767.pt-col .pt-block:hover .pt-title {
+  color: #c44767;
+}

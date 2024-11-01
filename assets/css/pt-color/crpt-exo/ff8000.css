@@ -1,0 +1,92 @@
+/*ff8000:ff8000*/
+.crpt-exo-cff8000 .pt-sub,
+.crpt-exo .crpt-exo-cff8000 .pt-sub {
+  color: #808080;
+}
+.crpt-exo-cff8000 .pt-header .pt-back,
+.crpt-exo .crpt-exo-cff8000 .pt-header .pt-back {
+  -webkit-box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+  box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+  background-color: #ff8000;
+}
+.crpt-exo-cff8000 .pt-btn:before,
+.crpt-exo .crpt-exo-cff8000 .pt-btn:before {
+  -webkit-box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+  box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+  background-color: #ff8000;
+}
+.crpt-exo-cff8000 .pt-selected .pt-content,
+.crpt-exo .crpt-exo-cff8000 .pt-selected .pt-content,
+.crpt-exo-cff8000.pt-animation-default .pt-cols .pt-block:hover .pt-content,
+.crpt-exo.pt-animation-default .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-content {
+  -webkit-box-shadow: 0 0 5px #e67300;
+  box-shadow: 0 0 5px #e67300;
+}
+.crpt-exo-cff8000 .pt-selected .pt-sub,
+.crpt-exo .crpt-exo-cff8000 .pt-selected .pt-sub,
+.crpt-exo-cff8000.pt-animation-default .pt-cols .pt-block:hover .pt-sub,
+.crpt-exo.pt-animation-default .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-sub,
+.crpt-exo-cff8000.pt-animation-2 .pt-cols .pt-block:hover .pt-sub,
+.crpt-exo.pt-animation-2 .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-sub {
+  color: #ffd9b3;
+}
+.crpt-exo-cff8000 .pt-selected .pt-header .pt-back,
+.crpt-exo .crpt-exo-cff8000 .pt-selected .pt-header .pt-back,
+.crpt-exo-cff8000.pt-animation-default .pt-cols .pt-block:hover .pt-header .pt-back,
+.crpt-exo.pt-animation-default .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-header .pt-back,
+.crpt-exo-cff8000.pt-animation-2 .pt-cols .pt-block:hover .pt-header .pt-back,
+.crpt-exo.pt-animation-2 .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-header .pt-back {
+  -webkit-box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00;
+  box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00;
+}
+.crpt-exo-cff8000 .pt-selected .pt-header:hover .pt-back,
+.crpt-exo .crpt-exo-cff8000 .pt-selected .pt-header:hover .pt-back,
+.crpt-exo-cff8000.pt-animation-default .pt-cols .pt-block:hover .pt-header:hover .pt-back,
+.crpt-exo.pt-animation-default .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-header:hover .pt-back,
+.crpt-exo-cff8000.pt-animation-2 .pt-cols .pt-block:hover .pt-header:hover .pt-back,
+.crpt-exo.pt-animation-2 .pt-cols .crpt-exo-cff8000 .pt-block:hover .pt-header:hover .pt-back {
+  -webkit-box-shadow: 25px 0 25px -25px #ffcc99 inset, -25px 0 25px -25px #ffcc99 inset, 0 2px 2px -2px #b35a00;
+  box-shadow: 25px 0 25px -25px #ffcc99 inset, -25px 0 25px -25px #ffcc99 inset, 0 2px 2px -2px #b35a00;
+}
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-title,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-title,
+.crpt-exo-cff8000.pt-animation-1 .pt-cols .pt-col .pt-block:hover .pt-title,
+.crpt-exo.pt-animation-1 .pt-cols .crpt-exo-cff8000.pt-col .pt-block:hover .pt-title {
+  color: #ff8000;
+}
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-price-container,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-price-container,
+.crpt-exo-cff8000.pt-animation-1 .pt-cols .pt-col .pt-block:hover .pt-price-container,
+.crpt-exo.pt-animation-1 .pt-cols .crpt-exo-cff8000.pt-col .pt-block:hover .pt-price-container,
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-btn-text,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-btn-text,
+.crpt-exo-cff8000.pt-animation-1 .pt-cols .pt-col .pt-block:hover .pt-btn-text,
+.crpt-exo.pt-animation-1 .pt-cols .crpt-exo-cff8000.pt-col .pt-block:hover .pt-btn-text,
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-list,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-list,
+.crpt-exo-cff8000.pt-animation-1 .pt-cols .pt-col .pt-block:hover .pt-list,
+.crpt-exo.pt-animation-1 .pt-cols .crpt-exo-cff8000.pt-col .pt-block:hover .pt-list,
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-footer,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-footer,
+.crpt-exo-cff8000.pt-animation-1 .pt-cols .pt-col .pt-block:hover .pt-footer,
+.crpt-exo.pt-animation-1 .pt-cols .crpt-exo-cff8000.pt-col .pt-block:hover .pt-footer {
+  -webkit-box-shadow: 0 0 5px #e67300;
+  box-shadow: 0 0 5px #e67300;
+}
+.crpt-exo-cff8000.pt-animation-default:hover .pt-selected .pt-sub,
+.crpt-exo.pt-animation-default:hover .crpt-exo-cff8000 .pt-selected .pt-sub,
+.crpt-exo-cff8000.pt-animation-2:hover .pt-selected .pt-sub,
+.crpt-exo.pt-animation-2:hover .crpt-exo-cff8000 .pt-selected .pt-sub,
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-sub,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-sub {
+  color: #808080;
+}
+.crpt-exo-cff8000.pt-animation-default:hover .pt-selected .pt-header .pt-back,
+.crpt-exo.pt-animation-default:hover .crpt-exo-cff8000 .pt-selected .pt-header .pt-back,
+.crpt-exo-cff8000.pt-animation-2:hover .pt-selected .pt-header .pt-back,
+.crpt-exo.pt-animation-2:hover .crpt-exo-cff8000 .pt-selected .pt-header .pt-back,
+.crpt-exo-cff8000.pt-animation-1 .pt-selected .pt-header .pt-back,
+.crpt-exo.pt-animation-1 .crpt-exo-cff8000 .pt-selected .pt-header .pt-back {
+  -webkit-box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+  box-shadow: 50px 0 50px -50px #ffcc99 inset, -50px 0 50px -50px #ffcc99 inset, 0 2px 2px -2px #b35a00, 0 -2px 2px -2px #b35a00;
+}

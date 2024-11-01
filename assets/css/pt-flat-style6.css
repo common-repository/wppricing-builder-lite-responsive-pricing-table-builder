@@ -1,0 +1,229 @@
+/* Flat - Responsive Pricing Tables v1.2 */
+.flat-style6 {
+  margin-top: 30px;
+}
+.flat-style6,
+.flat-style6 .pt-block {
+  font-family: 'Roboto';
+  font-size: 14px;
+  line-height: 1.4;
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+  cursor: default;
+}
+.flat-style6 *,
+.flat-style6 *:before,
+.flat-style6 *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.flat-style6 .pt-block {
+  padding: 30px 14px;
+  margin: 0 0 30px 0;
+}
+.flat-style6 .pt-title {
+  color: #fff;
+  font-size: 36px;
+  line-height: 1.22;
+  margin-bottom: 30px;
+}
+.flat-style6 .pt-content {
+  padding: 30px 14px;
+}
+.flat-style6 .pt-btn {
+  color: #fff;
+  background-color: #535353;
+  height: 40px;
+  padding: 0 15px;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 40px;
+  color: #fff;
+  font-weight: 400;
+  text-align: center;
+}
+.flat-style6 .pt-btn:hover,
+.flat-style6 .pt-btn:focus {
+  background-color: #414141;
+}
+.flat-style6 .pt-tooltip-show-text .pt-tooltip-show {
+  border-bottom: 1px solid;
+}
+.flat-style6 .pt-list {
+  color: #fff;
+  display: inline-block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+.flat-style6 .pt-list li {
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+}
+.flat-style6 .pt-cols {
+  text-align: center;
+  font-size: 0;
+}
+.flat-style6 .pt-cols .pt-col {
+  display: inline-block;
+  min-width: 200px;
+  max-width: 330px;
+  width: 100%;
+  vertical-align: middle;
+}
+@media (min-width: 480px) {
+  .flat-style6 .pt-cols .pt-col {
+    width: 50%;
+  }
+}
+@media (min-width: 768px) {
+  .flat-style6 .pt-cols-3 .pt-col {
+    width: 33.3333%;
+  }
+}
+@media (min-width: 992px) {
+  .flat-style6 .pt-cols-4 .pt-col {
+    width: 25%;
+  }
+}
+.flat-style6 .pt-block,
+.flat-style6 .pt-title,
+.flat-style6 .pt-content {
+  position: relative;
+}
+.flat-style6 .pt-back {
+  background-color: #233039;
+}
+.flat-style6 .pt-back {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.flat-style6 .pt-price {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 44px;
+  color: #fff;
+  margin-bottom: 22px;
+}
+.flat-style6 .pt-content {
+  background-color: #2d3d49;
+}
+.flat-style6 .pt-title + .pt-content {
+  margin-bottom: 8px;
+}
+.flat-style6 .pt-btn {
+  margin: 0 5px 22px 5px;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn:hover,
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn:focus {
+  background-color: #aeaeae;
+  cursor: default;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back {
+  background-color: #364b59;
+}
+.flat-style6 .pt-selected,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover {
+  z-index: 10;
+}
+.flat-style6 .pt-selected .pt-back,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back {
+  top: -14px;
+  bottom: -14px;
+  background-color: #939393;
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+}
+.flat-style6 .pt-selected .pt-title,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title {
+  color: #fff;
+}
+.flat-style6 .pt-selected .pt-content,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-content {
+  background-color: #ebebeb;
+}
+.flat-style6 .pt-selected .pt-price,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price {
+  color: #939393;
+}
+.flat-style6 .pt-selected .pt-list,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list {
+  color: #787878;
+}
+.flat-style6 .pt-selected .pt-btn,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn {
+  background-color: #535353;
+  color: #fff;
+}
+.flat-style6 .pt-selected .pt-btn:hover,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.flat-style6 .pt-selected .pt-btn:focus,
+.flat-style6[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus {
+  background-color: #414141;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n),
+.flat-style6[class*='pt-animation-']:hover .pt-selected {
+  z-index: auto;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-back {
+  top: 0;
+  bottom: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-title {
+  color: #fff;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-content,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-content {
+  background-color: #2d3d49;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-price {
+  color: #fff;
+}
+.flat-style6 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-list {
+  color: #fff;
+}
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-back {
+  background-color: #233039;
+}
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-btn {
+  background-color: #535353;
+  color: #fff;
+}
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.flat-style6[class*='pt-animation-']:hover .pt-selected .pt-btn:focus {
+  background-color: #414141;
+}
+.flat-style6.pt-animation-default .pt-back,
+.flat-style6.pt-animation-1 .pt-back,
+.flat-style6.pt-animation-default .pt-content,
+.flat-style6.pt-animation-1 .pt-content,
+.flat-style6.pt-animation-default .pt-list,
+.flat-style6.pt-animation-1 .pt-list,
+.flat-style6.pt-animation-default .pt-price,
+.flat-style6.pt-animation-1 .pt-price,
+.flat-style6.pt-animation-default .pt-btn,
+.flat-style6.pt-animation-1 .pt-btn {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.flat-style6.pt-animation-1 .pt-cols .pt-col:nth-child(n) .pt-block:nth-child(n) .pt-back {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.pt-content-loader.ptcl-flat-style6{display:block}.pt-content-loader.ptcl-flat-style6+.pt-content-loader-bar{display:none}

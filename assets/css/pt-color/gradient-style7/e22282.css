@@ -1,0 +1,113 @@
+/*e22282-f9e11b:e22282-e22282-f9e11b-233039-ffffff-f26521-ededed-e2520d-ffffff-f26521-ffffff-2d061a-666666-ffffff-f26521-ededed-e2520d-ffffff-ffffff-ffffff*/
+.gradient-style7-ce22282 .pt-back:before,
+.gradient-style7 .gradient-style7-ce22282 .pt-back:before {
+  background-color: #233039;
+}
+.gradient-style7-ce22282 .pt-back:after,
+.gradient-style7 .gradient-style7-ce22282 .pt-back:after {
+  background: #f9e11b;
+  background: -webkit-linear-gradient(top, #e22282, #f9e11b);
+  background: -moz-linear-gradient(top, #e22282, #f9e11b);
+  background: linear-gradient(to bottom, #e22282, #f9e11b);
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+}
+.gradient-style7-ce22282 .pt-title,
+.gradient-style7 .gradient-style7-ce22282 .pt-title {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-price,
+.gradient-style7 .gradient-style7-ce22282 .pt-price {
+  color: #f26521;
+}
+.gradient-style7-ce22282 .pt-btn,
+.gradient-style7 .gradient-style7-ce22282 .pt-btn {
+  color: #fff;
+  background-color: #f26521;
+}
+.gradient-style7-ce22282 .pt-btn:hover,
+.gradient-style7 .gradient-style7-ce22282 .pt-btn:hover,
+.gradient-style7-ce22282 .pt-btn:focus,
+.gradient-style7 .gradient-style7-ce22282 .pt-btn:focus {
+  color: #ededed;
+  background-color: #e2520d;
+}
+.gradient-style7-ce22282 .pt-list,
+.gradient-style7 .gradient-style7-ce22282 .pt-list {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back:before,
+.gradient-style7 .pt-cols .gradient-style7-ce22282.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back:before {
+  background-color: #364b59;
+}
+.gradient-style7-ce22282 .pt-selected .pt-title,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-title,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-title {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-selected .pt-price,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-price,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-price {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-selected .pt-list,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-list,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-list {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-selected .pt-btn,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-btn,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-btn {
+  background-color: #f26521;
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-selected .pt-btn:hover,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-btn:hover,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-btn:hover,
+.gradient-style7-ce22282 .pt-selected .pt-btn:focus,
+.gradient-style7 .gradient-style7-ce22282 .pt-selected .pt-btn:focus,
+.gradient-style7-ce22282[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus,
+.gradient-style7[class*='pt-animation-'] .gradient-style7-ce22282.pt-col .pt-block:hover .pt-btn:focus {
+  color: #ededed;
+  background-color: #e2520d;
+}
+.gradient-style7-ce22282 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.gradient-style7 .pt-cols .gradient-style7-ce22282.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-title,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-title {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.gradient-style7 .pt-cols .gradient-style7-ce22282.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-price,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-price {
+  color: #f26521;
+}
+.gradient-style7-ce22282 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.gradient-style7 .pt-cols .gradient-style7-ce22282.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-list,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-list {
+  color: #fff;
+}
+.gradient-style7-ce22282 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.gradient-style7 .pt-cols .gradient-style7-ce22282.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-btn {
+  color: #fff;
+}
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-btn {
+  background-color: #f26521;
+}
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-btn:hover,
+.gradient-style7-ce22282[class*='pt-animation-']:hover .pt-selected .pt-btn:focus,
+.gradient-style7[class*='pt-animation-']:hover .gradient-style7-ce22282 .pt-selected .pt-btn:focus {
+  color: #ededed;
+  background-color: #e2520d;
+}

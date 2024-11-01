@@ -1,0 +1,19 @@
+/*ed4d13:ed4d13*/
+.csmrpt-modern-ced4d13 .pt-btn:hover,
+.csmrpt-modern .csmrpt-modern-ced4d13 .pt-btn:hover,
+.csmrpt-modern-ced4d13 .btn:hover,
+.csmrpt-modern .csmrpt-modern-ced4d13 .btn:hover,
+.csmrpt-modern-ced4d13 .pt-btn:focus,
+.csmrpt-modern .csmrpt-modern-ced4d13 .pt-btn:focus,
+.csmrpt-modern-ced4d13 .btn:focus,
+.csmrpt-modern .csmrpt-modern-ced4d13 .btn:focus {
+  background-color: #ed4d13;
+  border-color: #ef5f2b;
+}
+.csmrpt-modern-ced4d13 .pt-selected .pt-head,
+.csmrpt-modern .csmrpt-modern-ced4d13 .pt-selected .pt-head,
+.csmrpt-modern-ced4d13[class*='pt-animation-'] .pt-col .pt-block:hover .pt-head,
+.csmrpt-modern[class*='pt-animation-'] .csmrpt-modern-ced4d13.pt-col .pt-block:hover .pt-head {
+  background-color: #ed4d13;
+  border-color: #ef5f2b;
+}

@@ -1,0 +1,363 @@
+.wbrpt-editor-attribute {
+    margin: 4px 0 10px;
+}
+
+.wbrpt-editor .header {
+    font-size: 16px;
+    color: #000000;
+    text-align: center;
+    background-color: #E5E5E5;
+    font-weight: bold;
+    border: 1px solid #D6D6D6;
+    padding: 2px;
+    margin: 10px 0 2px 0;
+    text-transform: uppercase;
+}
+
+.wbrpt-editor .header:first-child {
+    margin-top: 0;
+}
+
+.wbrpt-editor .instance {
+    position: relative;
+    padding: 0 42px 42px 0;
+    text-align: left;
+}
+
+.wbrpt-editor table {
+    width: 100%;
+}
+
+.wbrpt-editor * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wbrpt-editor table {
+    border-collapse: collapse;
+}
+
+.wbrpt-editor table td, table th {
+    border: 1px solid #D6D6D6;
+    padding: 5px 10px;
+    vertical-align: top;
+}
+
+.wbrpt-editor table th {
+    background: #EDEEEF;
+}
+
+.wbrpt-editor table th.extend {
+    width: 50%;
+}
+
+.wbrpt-editor table th input,
+.wbrpt-editor table th textarea {
+    font-weight: bold;
+}
+
+.wbrpt-editor table td {
+    background: #F6F6F6;
+}
+
+.wbrpt-editor table tr:nth-child(even) td {
+    background: #FFFFFF;
+}
+
+.wbrpt-editor input,
+.wbrpt-editor textarea,
+.wbrpt-editor select,
+#wpbody .wbrpt-editor select,
+.wbrpt-editor .field-preview {
+    border: 1px solid #E1E1E1;
+    padding: 2px 4px;
+    margin: 5px 0;
+    display: block;
+    width: 100%;
+    line-height: 1.3;
+    font-size: 12px;
+    font-family: Tahoma;
+    background: white;
+    text-align: left;
+}
+
+.wbrpt-editor input + .field-preview {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.wbrpt-editor input + .field-preview:after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    background-color: #FFFFFF;
+    right: 0;
+    width: 4px;
+}
+
+.wbrpt-editor select,
+#wpbody .wbrpt-editor select {
+    padding: 0;
+    height: auto;
+}
+
+.wbrpt-editor .field-wrapper {
+    clear: both;
+    margin: 5px 0;
+    position: relative;
+}
+
+.wbrpt-editor .field-wrapper input {
+    margin: 0;
+}
+
+.wbrpt-editor .side-tooltip,
+.wbrpt-editor .top-tooltip {
+    position: relative;
+}
+
+.wbrpt-editor .side-tooltip .side-tooltip-box,
+.wbrpt-editor .instance .top-tooltip:before,
+.wbrpt-editor .top-tooltip:before {
+    background-color: #000000;
+    background-color: rgba(0, 0, 0, 0.75);
+    color: #FFFFFF ;
+    position: absolute;
+    z-index: 9997;
+    white-space: nowrap;
+    padding: 0 4px;
+    display: none;
+    text-decoration: none;
+}
+
+.wbrpt-editor .side-tooltip:hover,
+.wbrpt-editor .top-tooltip:hover {
+    text-decoration: none;
+}
+
+.wbrpt-editor .side-tooltip .side-tooltip-box {
+    top: 0;
+    right: 100%;
+    margin: 0 6px 0 0;
+}
+
+.wbrpt-editor .top-tooltip:before {
+    bottom: 100%;
+    left: 0;
+    margin: 0 0 6px -2px;
+    content: attr(data-tooltip-text);
+}
+
+.wbrpt-editor .side-tooltip .side-tooltip-box:before,
+.wbrpt-editor .top-tooltip:after {
+    border: solid;
+    position: absolute;
+    z-index: 9998;
+    display: none;
+    content: "";
+}
+
+.wbrpt-editor .side-tooltip .side-tooltip-box:before {
+    border-color: transparent transparent transparent rgba(0, 0, 0, 0.75);
+    border-width: 6px 0 6px 6px;
+    top: 50%;
+    margin-top: -6px;
+    right: -6px;
+}
+
+.wbrpt-editor .top-tooltip:after {
+    border-color: rgba(0, 0, 0, 0.75) transparent transparent transparent;
+    border-width: 6px 6px 0 6px;
+    bottom: 100%;
+    margin-left: -6px;
+    left: 50%;
+}
+
+.wbrpt-editor .side-tooltip:hover .side-tooltip-box,
+.wbrpt-editor .side-tooltip:hover .side-tooltip-box:before,
+.wbrpt-editor .top-tooltip:hover:before,
+.wbrpt-editor .top-tooltip:hover:after {
+    display: block;
+}
+
+.wbrpt-editor .side-tooltip input:focus ~ .side-tooltip-box,
+.wbrpt-editor .side-tooltip input:focus ~ .side-tooltip-box:before,
+.wbrpt-editor .side-tooltip textarea:focus ~ .side-tooltip-box,
+.wbrpt-editor .side-tooltip textarea:focus ~ .side-tooltip-box:before,
+.wbrpt-editor .side-tooltip select:focus ~ .side-tooltip-box,
+.wbrpt-editor .side-tooltip select:focus ~ .side-tooltip-box:before,
+.wbrpt-editor .top-tooltip:focus:before,
+.wbrpt-editor .top-tooltip:focus:after {
+    display: none;
+}
+
+.wbrpt-editor .add-row,
+.wbrpt-editor .add-column {
+    position: absolute;
+    display: block;
+    border: 1px dashed gray;
+    text-align: center;
+    color: gray;
+    font-size: 22px;
+    background-color: #EFEFEF;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.wbrpt-editor .add-row {
+    height: 40px;
+    bottom: 0;
+    left: 0;
+    right: 42px;
+}
+
+.wbrpt-editor .add-column {
+    width: 40px;
+    right: 0;
+    top: 0;
+    bottom: 42px;
+}
+
+.wbrpt-editor .add-row i,
+.wbrpt-editor .add-column i {
+    position: absolute;
+    display: block;
+    width: 100%;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.wbrpt-editor .add-row:hover,
+.wbrpt-editor .add-column:hover {
+    background-color: #E2E2E2;
+    border-color: black;
+    color: black;
+}
+
+.wbrpt-editor .btn-ln {
+    display: block;
+    cursor: pointer;
+    cursor: hand;
+    float: right;
+    margin: 0 0 5px 5px;
+    color: gray;
+}
+
+.wbrpt-editor .btn-ln:focus {
+    box-shadow: none;
+}
+
+.wbrpt-editor .btn-ln.divide {
+    margin-left: 10px;
+}
+
+.wbrpt-editor .hide {
+    display: none;
+}
+
+.wbrpt-editor .toggle,
+.wbrpt-editor .toggle-field1,
+.wbrpt-editor .toggle-field2,
+.wbrpt-editor .toggle-field3,
+.wbrpt-editor .toggle-field4,
+.wbrpt-editor .toggle-field5,
+.wbrpt-editor .toggle-field6,
+.wbrpt-editor .toggle-field7,
+.wbrpt-editor .toggle-field8,
+.wbrpt-editor .toggle-field9,
+.wbrpt-editor .toggle-field10 {
+    display: none;
+}
+
+.wbrpt-editor .toggle.checkbox1:checked ~ .toggle-field1,
+.wbrpt-editor .toggle.checkbox2:checked ~ .toggle-field2,
+.wbrpt-editor .toggle.checkbox3:checked ~ .toggle-field3,
+.wbrpt-editor .toggle.checkbox4:checked ~ .toggle-field4,
+.wbrpt-editor .toggle.checkbox5:checked ~ .toggle-field5,
+.wbrpt-editor .toggle.checkbox6:checked ~ .toggle-field6,
+.wbrpt-editor .toggle.checkbox7:checked ~ .toggle-field7,
+.wbrpt-editor .toggle.checkbox8:checked ~ .toggle-field8,
+.wbrpt-editor .toggle.checkbox9:checked ~ .toggle-field9,
+.wbrpt-editor .toggle.checkbox10:checked ~ .toggle-field10 {
+    display: block;
+}
+
+.wbrpt-editor .toggle + label {
+    color: gray;
+}
+
+.wbrpt-editor table th.extend .btn-ln.extend-column,
+.wbrpt-editor .toggle:checked + label {
+    color: black;
+}
+
+.wbrpt-editor .preview-target {
+    visibility: hidden;
+}
+
+.wbrpt-editor .show-original {
+    visibility: visible;
+}
+
+.wbrpt-editor .field-preview {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    margin: 0;
+    overflow-y: auto;
+    cursor:text;
+}
+
+.wbrpt-editor .show-original + .field-preview {
+    display: none;
+}
+
+.wbrpt-editor textarea + .field-preview .fa {
+    width: 1.4em;
+    text-align: center;
+}
+
+.wbrpt-editor .image-preview {
+    padding-top: 56%;
+    position: relative;
+    background-color: #E0E0E0;
+    border: 1px solid #D9D9D9;
+    -webkit-background-size: contain;
+    background-image: url('data:image/png;base64,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');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.wbrpt-editor .hide-br br {
+    display: none;
+}
+
+.wbrpt-editor .color-column {
+    padding: 0 2px;
+}
+
+#save-post,
+#publish {
+    display: none;
+}
+
+.wbrpt-editor-color-box {
+    background-color: #f6f6f6;
+    border: 1px solid #d6d6d6;
+    width: 192px;
+    padding: 4px;
+    position: absolute;
+    z-index: 9999;
+}
+
+.wbrpt-editor-color-box .wbrpt-color-picker label span {
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    font-size: 14px;
+}

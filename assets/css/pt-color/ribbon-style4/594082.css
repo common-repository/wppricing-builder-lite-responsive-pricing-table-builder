@@ -1,0 +1,158 @@
+/*594082-2c1f40:594082-2c1f40-ffffff-4d3870-ffffff-ffffff-4d3870-ffffff-f5a627-ed970b-171122-594082-2c1f40-f0e1ff-ffffff-2c1f40-f0e1ff-ffffff-f5a627-ed970b*/
+.ribbon-style4-c594082 .pt-back,
+.ribbon-style4 .ribbon-style4-c594082 .pt-back {
+  background-color: #2c1f40;
+}
+.ribbon-style4-c594082 .pt-title,
+.ribbon-style4 .ribbon-style4-c594082 .pt-title {
+  background-color: #4d3870;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-title:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-title:before {
+  border-color: #1e162c;
+}
+.ribbon-style4-c594082 .pt-price,
+.ribbon-style4 .ribbon-style4-c594082 .pt-price {
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-btn,
+.ribbon-style4 .ribbon-style4-c594082 .pt-btn {
+  background-color: #f5a627;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-btn:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-btn:before {
+  border-color: #ae6e08;
+}
+.ribbon-style4-c594082 .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-c594082 .pt-btn:hover,
+.ribbon-style4-c594082 .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-c594082 .pt-btn:focus {
+  background-color: #ed970b;
+}
+.ribbon-style4-c594082 .pt-list,
+.ribbon-style4 .ribbon-style4-c594082 .pt-list {
+  background-color: #4d3870;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-list:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-list:before {
+  border-color: #1e162c;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back {
+  background-color: #443062;
+}
+.ribbon-style4-c594082 .pt-selected .pt-back,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-back,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-back {
+  background-color: #594082;
+}
+.ribbon-style4-c594082 .pt-selected .pt-title,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-title,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-title {
+  background-color: #f0e1ff;
+  color: #2c1f40;
+}
+.ribbon-style4-c594082 .pt-selected .pt-title:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-title:before,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-title:before {
+  border-color: #bd7bff;
+}
+.ribbon-style4-c594082 .pt-selected .pt-price,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-price,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-price {
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-selected .pt-list,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-list,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-list {
+  background-color: #f0e1ff;
+  color: #2c1f40;
+}
+.ribbon-style4-c594082 .pt-selected .pt-list:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-list:before,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-list:before {
+  border-color: #bd7bff;
+}
+.ribbon-style4-c594082 .pt-selected .pt-btn,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-btn,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-btn {
+  background-color: #f5a627;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-selected .pt-btn:before,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-btn:before,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-btn:before {
+  border-color: #ae6e08;
+}
+.ribbon-style4-c594082 .pt-selected .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-btn:hover,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4-c594082 .pt-selected .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-c594082 .pt-selected .pt-btn:focus,
+.ribbon-style4-c594082[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-c594082.pt-col .pt-block:hover .pt-btn:focus {
+  background-color: #ed970b;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-title,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-title {
+  background-color: #4d3870;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-title:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-title:before {
+  border-color: #1e162c;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-price,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-price {
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-list,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-list {
+  background-color: #4d3870;
+  color: #fff;
+}
+.ribbon-style4-c594082 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4 .pt-cols .ribbon-style4-c594082.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-list:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-list:before {
+  border-color: #1e162c;
+}
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-back,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-back {
+  background-color: #2c1f40;
+}
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-btn {
+  background-color: #f5a627;
+  color: #fff;
+}
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-btn:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-btn:before {
+  border-color: #ae6e08;
+}
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-btn:hover,
+.ribbon-style4-c594082[class*='pt-animation-']:hover .pt-selected .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-c594082 .pt-selected .pt-btn:focus {
+  background-color: #ed970b;
+}

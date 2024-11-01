@@ -1,0 +1,131 @@
+/*7c1962:7c1962-ffffff-666666-7f1a65-7c1962-7c1962-ffffff-7c1962-ffffff-9a1f79-2a0922-ffffff-7c1962-666666-7f1a65-7c1962-7c1962-ffffff-7c1962-ffffff-9a1f79*/
+.rings-style4-c7c1962 .pt-back,
+.rings-style4 .rings-style4-c7c1962 .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4-c7c1962 .pt-title,
+.rings-style4 .rings-style4-c7c1962 .pt-title {
+  color: #7f1a65;
+}
+.rings-style4-c7c1962 .pt-price,
+.rings-style4 .rings-style4-c7c1962 .pt-price {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-btn,
+.rings-style4 .rings-style4-c7c1962 .pt-btn {
+  color: #fff;
+  background-color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-btn:hover,
+.rings-style4 .rings-style4-c7c1962 .pt-btn:hover,
+.rings-style4-c7c1962 .pt-btn:focus,
+.rings-style4 .rings-style4-c7c1962 .pt-btn:focus {
+  color: #fff;
+  background-color: #9a1f79;
+}
+.rings-style4-c7c1962 .pt-list,
+.rings-style4 .rings-style4-c7c1962 .pt-list {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-selected .pt-back,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-back,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4-c7c1962 .pt-selected .pt-image,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-image,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-image,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-image {
+  border-top-color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-selected .pt-content:before,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-content:before,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-content:before,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-content:before {
+  -webkit-box-shadow: inset 0px 105px 70px -70px rgba(124,25,98,0.75);
+  box-shadow: inset 0px 105px 70px -70px rgba(124,25,98,0.75);
+}
+.rings-style4-c7c1962 .pt-selected .pt-title,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-title,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-title {
+  color: #7f1a65;
+}
+.rings-style4-c7c1962 .pt-selected .pt-price,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-price,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-price {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-selected .pt-list,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-list,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-list {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-selected .pt-btn,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-btn,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-btn {
+  background-color: #7c1962;
+  color: #fff;
+}
+.rings-style4-c7c1962 .pt-selected .pt-btn:hover,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-btn:hover,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-btn:hover,
+.rings-style4-c7c1962 .pt-selected .pt-btn:focus,
+.rings-style4 .rings-style4-c7c1962 .pt-selected .pt-btn:focus,
+.rings-style4-c7c1962[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus,
+.rings-style4[class*='pt-animation-'] .rings-style4-c7c1962.pt-col .pt-block:hover .pt-btn:focus {
+  color: #fff;
+  background-color: #9a1f79;
+}
+.rings-style4-c7c1962 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.rings-style4 .pt-cols .rings-style4-c7c1962.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-back,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4-c7c1962 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.rings-style4 .pt-cols .rings-style4-c7c1962.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-title,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-title {
+  color: #7f1a65;
+}
+.rings-style4-c7c1962 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.rings-style4 .pt-cols .rings-style4-c7c1962.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-price,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-price {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.rings-style4 .pt-cols .rings-style4-c7c1962.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-list,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-list {
+  color: #7c1962;
+}
+.rings-style4-c7c1962 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.rings-style4 .pt-cols .rings-style4-c7c1962.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-btn {
+  color: #fff;
+}
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-btn {
+  background-color: #7c1962;
+}
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-btn:hover,
+.rings-style4-c7c1962[class*='pt-animation-']:hover .pt-selected .pt-btn:focus,
+.rings-style4[class*='pt-animation-']:hover .rings-style4-c7c1962 .pt-selected .pt-btn:focus {
+  color: #fff;
+  background-color: #9a1f79;
+}

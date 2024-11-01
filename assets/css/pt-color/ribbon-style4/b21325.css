@@ -1,0 +1,158 @@
+/*b21325-233039:b21325-233039-ffffff-4e6376-ffffff-ffffff-4e6376-ffffff-ff3521-fc1700-2e050a-b21325-b21325-fde3e6-ffffff-b21325-fde3e6-ffffff-ff3521-fc1700*/
+.ribbon-style4-cb21325 .pt-back,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-back {
+  background-color: #233039;
+}
+.ribbon-style4-cb21325 .pt-title,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-title {
+  background-color: #4e6376;
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-title:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-title:before {
+  border-color: #252f39;
+}
+.ribbon-style4-cb21325 .pt-price,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-price {
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-btn,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-btn {
+  background-color: #ff3521;
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-btn:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-btn:before {
+  border-color: #ba1100;
+}
+.ribbon-style4-cb21325 .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-btn:hover,
+.ribbon-style4-cb21325 .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-btn:focus {
+  background-color: #fc1700;
+}
+.ribbon-style4-cb21325 .pt-list,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-list {
+  background-color: #4e6376;
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-list:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-list:before {
+  border-color: #252f39;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back {
+  background-color: #364b59;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-back,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-back,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-back {
+  background-color: #b21325;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-title,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-title,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-title {
+  background-color: #fde3e6;
+  color: #b21325;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-title:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-title:before,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-title:before {
+  border-color: #f68491;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-price,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-price,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-price {
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-list,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-list,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-list {
+  background-color: #fde3e6;
+  color: #b21325;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-list:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-list:before,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-list:before {
+  border-color: #f68491;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-btn,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-btn,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-btn {
+  background-color: #ff3521;
+  color: #ffffff;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-btn:before,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-btn:before,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-btn:before {
+  border-color: #ba1100;
+}
+.ribbon-style4-cb21325 .pt-selected .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-btn:hover,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4-cb21325 .pt-selected .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-cb21325 .pt-selected .pt-btn:focus,
+.ribbon-style4-cb21325[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cb21325.pt-col .pt-block:hover .pt-btn:focus {
+  background-color: #fc1700;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-title,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-title {
+  background-color: #4e6376;
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-title:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-title:before {
+  border-color: #252f39;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-price,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-price {
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-list,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-list {
+  background-color: #4e6376;
+  color: #fff;
+}
+.ribbon-style4-cb21325 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4 .pt-cols .ribbon-style4-cb21325.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-list:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-list:before {
+  border-color: #252f39;
+}
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-back,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-back {
+  background-color: #233039;
+}
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-btn {
+  background-color: #ff3521;
+  color: #fff;
+}
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-btn:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-btn:before {
+  border-color: #ba1100;
+}
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-btn:hover,
+.ribbon-style4-cb21325[class*='pt-animation-']:hover .pt-selected .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cb21325 .pt-selected .pt-btn:focus {
+  background-color: #fc1700;
+}

@@ -1,0 +1,328 @@
+/* Rings - Responsive Pricing Tables v1.0 */
+.rings-style4 {
+  margin-top: 30px;
+}
+.rings-style4,
+.rings-style4 .pt-block {
+  font-family: 'Allura';
+  font-size: 14px;
+  line-height: 1.4;
+  color: #fff;
+  font-weight: 300;
+  text-align: center;
+  cursor: default;
+}
+.rings-style4 *,
+.rings-style4 *:before,
+.rings-style4 *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.rings-style4 .pt-block {
+  margin-bottom: 30px;
+  padding: 20px;
+  position: relative;
+}
+.rings-style4 .pt-block > * {
+  position: relative;
+}
+.rings-style4 .pt-block > :last-child {
+  margin-bottom: 0;
+}
+.rings-style4 .pt-back {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rings-style4 .pt-image img {
+  vertical-align: middle;
+}
+.rings-style4 .pt-title {
+  color: #4d4d4d;
+  font-size: 30px;
+  line-height: 1.24;
+}
+.rings-style4 .pt-price {
+  color: #7a7a7a;
+  font-size: 52px;
+  margin: 0 0 16px 0;
+  line-height: 1;
+}
+.rings-style4 .pt-btn {
+  color: #fff;
+  background-color: #7a7a7a;
+  display: block;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+.rings-style4 .pt-btn:hover,
+.rings-style4 .pt-btn:focus {
+  color: #fff;
+  background-color: #7a7a7a;
+}
+.rings-style4 .pt-tooltip-show-text .pt-tooltip-show {
+  border-bottom: 1px solid;
+}
+.rings-style4 .pt-list {
+  color: #7a7a7a;
+  font-family: 'Amaranth', sans-serif;
+  font-style: italic;
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+.rings-style4 .pt-list li {
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+}
+@-webkit-keyframes wobble {
+  0%, 100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    transform: translateX(0);
+  }
+  30%, 70% {
+    -webkit-transform: translateX(-5px);
+    -moz-transform: translateX(-5px);
+    transform: translateX(-5px);
+  }
+  50% {
+    -webkit-transform: translateX(5px);
+    -moz-transform: translateX(5px);
+    transform: translateX(5px);
+  }
+}
+@keyframes wobble {
+  0%, 100% {
+    -webkit-transform: translateX(0);
+    -moz-transform: translateX(0);
+    transform: translateX(0);
+  }
+  30%, 70% {
+    -webkit-transform: translateX(-5px);
+    -moz-transform: translateX(-5px);
+    transform: translateX(-5px);
+  }
+  50% {
+    -webkit-transform: translateX(5px);
+    -moz-transform: translateX(5px);
+    transform: translateX(5px);
+  }
+}
+@-webkit-keyframes rotate {
+  0%, 100% {
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    transform: rotate(0);
+  }
+  30%, 70% {
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    transform: rotate(-1deg);
+  }
+  50% {
+    -webkit-transform: rotate(1deg);
+    -moz-transform: rotate(1deg);
+    transform: rotate(1deg);
+  }
+}
+@keyframes rotate {
+  0%, 100% {
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    transform: rotate(0);
+  }
+  30%, 70% {
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    transform: rotate(-1deg);
+  }
+  50% {
+    -webkit-transform: rotate(1deg);
+    -moz-transform: rotate(1deg);
+    transform: rotate(1deg);
+  }
+}
+.rings-style4[class*='pt-animation-'] .pt-col:nth-child(n) .pt-block.pt-not-available {
+  -webkit-animation: none;
+  -moz-animation: none;
+  animation: none;
+}
+.rings-style4.pt-animation-1 .pt-block:hover {
+  -webkit-animation: wobble 0.4s;
+  -moz-animation: wobble 0.4s;
+  animation: wobble 0.4s;
+}
+.rings-style4.pt-animation-2 .pt-block:hover {
+  -webkit-animation: rotate 0.4s;
+  -moz-animation: rotate 0.4s;
+  animation: rotate 0.4s;
+}
+.rings-style4 .pt-cols {
+  text-align: center;
+  font-size: 0;
+}
+.rings-style4 .pt-cols .pt-col {
+  display: inline-block;
+  min-width: 200px;
+  max-width: 330px;
+  width: 100%;
+  vertical-align: middle;
+}
+@media (min-width: 480px) {
+  .rings-style4 .pt-cols {
+    margin: 0 -15px;
+  }
+  .rings-style4 .pt-cols .pt-col {
+    min-width: 230px;
+    padding: 0 15px;
+    width: 50%;
+  }
+}
+@media (min-width: 768px) {
+  .rings-style4 .pt-cols-3 .pt-col {
+    width: 33.3333%;
+  }
+}
+@media (min-width: 992px) {
+  .rings-style4 .pt-cols-4 .pt-col {
+    width: 25%;
+  }
+}
+.rings-style4 .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4 .pt-image {
+  border-top: 8px solid transparent;
+  margin: -20px -20px 20px -20px;
+}
+.rings-style4 .pt-image img {
+  max-width: 100%;
+}
+.rings-style4 .pt-content:before {
+  content: "";
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  right: -20px;
+  bottom: -20px;
+}
+.rings-style4 .pt-content > * {
+  position: relative;
+}
+.rings-style4 .pt-content:last-child > :not(.pt-content):last-child {
+  margin-bottom: 0;
+}
+.rings-style4 .pt-title {
+  margin: 0 0 12px 0;
+}
+.rings-style4 .pt-btn {
+  padding: 7px 12px;
+  margin: 0 -20px;
+}
+.rings-style4 .pt-list {
+  margin: 0 0 36px 0;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn:hover,
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn:focus {
+  background-color: #ccc;
+  cursor: default;
+}
+.rings-style4 .pt-selected .pt-back,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4 .pt-selected .pt-image,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-image {
+  border-top-color: #7a7a7a;
+}
+.rings-style4 .pt-selected .pt-content:before,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-content:before {
+  -webkit-box-shadow: inset 0px 105px 70px -70px rgba(122,122,122,0.75);
+  box-shadow: inset 0px 105px 70px -70px rgba(122,122,122,0.75);
+}
+.rings-style4 .pt-selected .pt-title,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title {
+  color: #4d4d4d;
+}
+.rings-style4 .pt-selected .pt-price,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price {
+  color: #7a7a7a;
+}
+.rings-style4 .pt-selected .pt-list,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list {
+  color: #7a7a7a;
+}
+.rings-style4 .pt-selected .pt-btn,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn {
+  background-color: #7a7a7a;
+  color: #fff;
+}
+.rings-style4 .pt-selected .pt-btn:hover,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.rings-style4 .pt-selected .pt-btn:focus,
+.rings-style4[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus {
+  color: #fff;
+  background-color: #686868;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-back {
+  -webkit-box-shadow: 0 0 10px 1px #666;
+  box-shadow: 0 0 10px 1px #666;
+  background-color: #fff;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-image,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-image {
+  border-top-color: transparent;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-content:before,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-content:before {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-title {
+  color: #4d4d4d;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-price {
+  color: #7a7a7a;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-list {
+  color: #7a7a7a;
+}
+.rings-style4 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-btn,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-btn {
+  color: #fff;
+}
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-btn {
+  background-color: #7a7a7a;
+}
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.rings-style4[class*='pt-animation-']:hover .pt-selected .pt-btn:focus {
+  color: #fff;
+  background-color: #686868;
+}
+.rings-style4[class*='pt-animation-'] .pt-back,
+.rings-style4[class*='pt-animation-'] .pt-image,
+.rings-style4[class*='pt-animation-'] .pt-content:before,
+.rings-style4[class*='pt-animation-'] .pt-title,
+.rings-style4[class*='pt-animation-'] .pt-price,
+.rings-style4[class*='pt-animation-'] .pt-list,
+.rings-style4[class*='pt-animation-'] .pt-btn {
+  -webkit-transition: all 0.3s ease 0s;
+  -moz-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+.pt-content-loader.ptcl-rings-style4{display:block}.pt-content-loader.ptcl-rings-style4+.pt-content-loader-bar{display:none}

@@ -1,0 +1,18 @@
+/*dc143c:dc143c*/
+.smoozy-style3-cdc143c .pt-back:before,
+.smoozy-style3 .smoozy-style3-cdc143c .pt-back:before {
+  -webkit-box-shadow: 0 0 20px #2f040d;
+  box-shadow: 0 0 20px #2f040d;
+}
+.smoozy-style3-cdc143c .pt-back:after,
+.smoozy-style3 .smoozy-style3-cdc143c .pt-back:after {
+  background-color: #dc143c;
+  -webkit-box-shadow: 0 0 5px #8c0d26;
+  box-shadow: 0 0 5px #8c0d26;
+}
+.smoozy-style3-cdc143c .pt-btn:hover,
+.smoozy-style3 .smoozy-style3-cdc143c .pt-btn:hover,
+.smoozy-style3-cdc143c .pt-btn:focus,
+.smoozy-style3 .smoozy-style3-cdc143c .pt-btn:focus {
+  color: #dc143c;
+}

@@ -1,0 +1,34 @@
+/*9400d3:9400d3*/
+.rmsbpt-flat-c9400d3,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 {
+  color: #b507ff;
+}
+.rmsbpt-flat-c9400d3 .pt-block,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 .pt-block {
+  background: #9400d3;
+  border-color: #b507ff;
+}
+.rmsbpt-flat-c9400d3 .pt-head,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 .pt-head {
+  background: #9400d3;
+}
+.rmsbpt-flat-c9400d3 .pt-list-container:before,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 .pt-list-container:before {
+  background: #b507ff;
+}
+.rmsbpt-flat-c9400d3 .pt-price-container,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 .pt-price-container {
+  background: #b507ff;
+}
+.rmsbpt-flat-c9400d3 .pt-selected .pt-text,
+.rmsbpt-flat .rmsbpt-flat-c9400d3 .pt-selected .pt-text,
+.rmsbpt-flat-c9400d3.pt-animation-default .pt-col .pt-block:hover .pt-text,
+.rmsbpt-flat.pt-animation-default .rmsbpt-flat-c9400d3.pt-col .pt-block:hover .pt-text,
+.rmsbpt-flat-c9400d3.pt-animation-1 .pt-selected .pt-text,
+.rmsbpt-flat.pt-animation-1 .rmsbpt-flat-c9400d3 .pt-selected .pt-text,
+.rmsbpt-flat-c9400d3.pt-animation-1 .pt-col .pt-block:hover .pt-text,
+.rmsbpt-flat.pt-animation-1 .rmsbpt-flat-c9400d3.pt-col .pt-block:hover .pt-text,
+.rmsbpt-flat-c9400d3.pt-animation-2 .pt-text,
+.rmsbpt-flat.pt-animation-2 .rmsbpt-flat-c9400d3 .pt-text {
+  text-shadow: 0 0 6px #4c006d;
+}

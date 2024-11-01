@@ -1,0 +1,158 @@
+/*d7e3e7-b2bcbf:d7e3e7-b2bcbf-ffffff-828a8c-ffffff-ffffff-828a8c-ffffff-a61d50-881841-131d20-d7e3e7-a61d50-e8f3f6-a61d50-828a8c-e8f3f6-ffffff-a61d50-881841*/
+.ribbon-style4-cd7e3e7 .pt-back,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-back {
+  background-color: #b2bcbf;
+}
+.ribbon-style4-cd7e3e7 .pt-title,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-title {
+  background-color: #828a8c;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-title:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-title:before {
+  border-color: #515658;
+}
+.ribbon-style4-cd7e3e7 .pt-price,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-price {
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-btn,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-btn {
+  background-color: #a61d50;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-btn:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-btn:before {
+  border-color: #4f0e26;
+}
+.ribbon-style4-cd7e3e7 .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-btn:hover,
+.ribbon-style4-cd7e3e7 .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-btn:focus {
+  background-color: #881841;
+}
+.ribbon-style4-cd7e3e7 .pt-list,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-list {
+  background-color: #828a8c;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-list:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-list:before {
+  border-color: #515658;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-back {
+  background-color: #ced4d6;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-back,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-back,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-back,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-back {
+  background-color: #d7e3e7;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-title,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-title,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-title {
+  background-color: #e8f3f6;
+  color: #a61d50;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-title:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-title:before,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-title:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-title:before {
+  border-color: #9fcdd9;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-price,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-price,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-price,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-price {
+  color: #a61d50;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-list,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-list,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-list {
+  background-color: #e8f3f6;
+  color: #828a8c;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-list:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-list:before,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-list:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-list:before {
+  border-color: #9fcdd9;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-btn,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-btn,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-btn {
+  background-color: #a61d50;
+  color: #ffffff;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-btn:before,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:before,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:before,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-btn:before {
+  border-color: #4f0e26;
+}
+.ribbon-style4-cd7e3e7 .pt-selected .pt-btn:hover,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:hover,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-btn:hover,
+.ribbon-style4-cd7e3e7 .pt-selected .pt-btn:focus,
+.ribbon-style4 .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:focus,
+.ribbon-style4-cd7e3e7[class*='pt-animation-'] .pt-col .pt-block:hover .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-'] .ribbon-style4-cd7e3e7.pt-col .pt-block:hover .pt-btn:focus {
+  background-color: #881841;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-title,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-title {
+  background-color: #828a8c;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-title:before,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-title:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-title:before {
+  border-color: #515658;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-price,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-price,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-price {
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-list,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-list {
+  background-color: #828a8c;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7 .pt-cols .pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4 .pt-cols .ribbon-style4-cd7e3e7.pt-col:nth-child(n) .pt-block.pt-not-available:nth-child(n) .pt-list:before,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-list:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-list:before {
+  border-color: #515658;
+}
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-back,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-back {
+  background-color: #b2bcbf;
+}
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-btn,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-btn {
+  background-color: #a61d50;
+  color: #fff;
+}
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-btn:before,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:before {
+  border-color: #4f0e26;
+}
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-btn:hover,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:hover,
+.ribbon-style4-cd7e3e7[class*='pt-animation-']:hover .pt-selected .pt-btn:focus,
+.ribbon-style4[class*='pt-animation-']:hover .ribbon-style4-cd7e3e7 .pt-selected .pt-btn:focus {
+  background-color: #881841;
+}
